@@ -9,7 +9,7 @@ public class Factorial {
             factorial = factorial * i;
         }
 
-        System.out.println("Factorial of " + number + " = " + fa%w
+        System.out.println("Factorial of " + number + " = " + factorial
 
     }
 
